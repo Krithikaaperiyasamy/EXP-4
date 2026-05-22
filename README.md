@@ -38,14 +38,34 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+<img width="1468" height="808" alt="Screenshot 2026-05-20 160327" src="https://github.com/user-attachments/assets/398857e1-f047-4440-942b-f7d410907180" />
+
+
 Bridge rectifier with filter:
+
+<img width="980" height="647" alt="Screenshot 2026-05-21 104823" src="https://github.com/user-attachments/assets/2a6ca4c9-8aec-497a-8c25-19c1e1a2d8de" />
+
 
 TABULAR COLUMN
 Rectifier without filter
+
+<img width="1732" height="476" alt="WhatsApp Image 2026-05-22 at 23 53 58" src="https://github.com/user-attachments/assets/93ffef18-e3aa-4520-a21f-934260def7e6" />
+
 TABULAR COLUMN
 Rectifier with filter
 
+<img width="1622" height="474" alt="WhatsApp Image 2026-05-22 at 23 54 28" src="https://github.com/user-attachments/assets/4e78e7b9-62b2-4223-bf61-d612ebf1f9b5" />
+
+
 WAVEFORM:
+half wave rectifier:
+
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/f8a2b24f-3ca9-4e8c-afdf-7bf2c70ffa9e" />
+
+
+full wave rectifier:
+
+<img width="1498" height="920" alt="Screenshot 2026-05-21 105250" src="https://github.com/user-attachments/assets/6ccd2432-6db3-4936-b3f9-40b79ae02486" />
 
 
 RESULT:
