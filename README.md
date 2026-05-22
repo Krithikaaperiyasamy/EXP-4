@@ -60,12 +60,13 @@ Rectifier with filter
 WAVEFORM:
 half wave rectifier:
 
-<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/f8a2b24f-3ca9-4e8c-afdf-7bf2c70ffa9e" />
+<img width="1476" height="896" alt="Screenshot 2026-05-21 105853" src="https://github.com/user-attachments/assets/1badcb7d-0213-41ed-9e13-070c3b506c48" />
+
 
 
 full wave rectifier:
 
-<img width="1498" height="920" alt="Screenshot 2026-05-21 105250" src="https://github.com/user-attachments/assets/6ccd2432-6db3-4936-b3f9-40b79ae02486" />
+<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/0e2ee1ed-00bf-4919-807a-c4072c1c18a2" />
 
 
 RESULT:
